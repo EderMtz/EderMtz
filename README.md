@@ -5,5 +5,5 @@ Estudiante en desarrolo web
 </div>
 </p>
 <div>
-<img src="https://www.tecnoschool.com.ar/img/cursos-nuevos/1taller-python.gif" align="right" style="max-width: 10px; height: 250px;">
+<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" align="right" style="max-width: 10px; height: 250px;">
 </div>
